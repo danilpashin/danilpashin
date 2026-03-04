@@ -9,18 +9,18 @@
 
 ⚡ Fun fact: I didn't want to be a programmer in the beginning, but AI, Image-Recognition, C# are too interesting  
 
-#GitHub: https://github.com/danilpashin  
+<h4 align="center">
+<strong>GitHub:</strong> https://github.com/danilpashin <strong>LinkedIn</strong>: https://linkedin.com/in/dpashin  
+</h4>  
 
-#LinkedIn: https://linkedin.com/in/dpashin  
-
-🔧 **Tech Stack**
+##🔧 **Tech Stack**
 
 - 💻 Languages: Python, C#, Java, JavaScript, HTML, CSS
 - 🗃️ Database: MySQL, MS SQL, PostgreSQL, MongoDB, Neo4j, Redis
 - 📦 Tools: Git, VS Code, NetBeans
 - 🧠 Skills: MVVM C#, Basic AI, Debugging, Problem Solving, Data Structures
 
-- 🚀 **What I Enjoy**
+##🚀 **What I Enjoy**
 
 - 💻 Developing apps with clean and interesting design
 - 🔍 Solving complex problems
