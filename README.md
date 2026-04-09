@@ -1,54 +1,28 @@
 ## Hi, I'm Danil Pashin, Beginner Programmer 👋
 
 
-🔭 I’m currently working on C# MVVM Projects, Python Neural Networks (TensorFlow, Keras, Pandas)  
+🔭 I’m currently working on Go Backend API Gateway
 
-🌱 I’m currently learning MVVM Architecture, how Neural Networks work with Pandas, Keras, plot-creating with MatPlotLib, Seaborn  
+🌱 I’m currently learning chi, Redis, Docker, SQL, JWT, Prometheus metrics
 
 📫 How to reach me: Gmail - roiven435@gmail.com  
 
-⚡ Fun fact: I didn't want to be a programmer in the beginning, but AI, Image-Recognition, C# are too interesting  
+⚡ Fun fact: I didn't want to be a programmer in the beginning, but Go is too interesting  
 
 <h4 align="center">
-<strong>GitHub:</strong> https://github.com/danilpashin <strong>LinkedIn</strong>: https://linkedin.com/in/dpashin  
+<strong>GitHub:</strong> https://github.com/danilpashin
 </h4>  
 
 ## 🔧 **Tech Stack**
 
-- 💻 Languages: Python, C#, Java, JavaScript, HTML, CSS
-- 🗃️ Database: MySQL, MS SQL, PostgreSQL, MongoDB, Neo4j, Redis
-- 📦 Tools: Git, VS Code, NetBeans
-- 🧠 Skills: MVVM C#, Basic AI, Debugging, Problem Solving, Data Structures
+- 💻 Languages: Go, Python, JavaScript, HTML, CSS
+- 🗃️ Database: MS SQL, PostgreSQL, Redis
+- 📦 Tools: Git, VS Code, PyCharm
+- 🧠 Skills: Debugging, Problem Solving, Data Structures
 
 ## 🚀 **What I Enjoy**
 
 - 💻 Developing apps with clean and interesting design
 - 🔍 Solving complex problems
-- 🚀 Exploring AI, backend tech, and automation tools
+- 🚀 Backend tech
 - 🧠 Constantly learning through courses, practice, university practices
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
