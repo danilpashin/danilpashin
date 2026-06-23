@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Go Backend API Gateway
 
-🌱 I’m currently learning chi, Redis, Docker, SQL, JWT, Prometheus metrics
+🌱 Learning async Python, FastAPI, Prometheus metrics, Logging, Backend-architecture patterns
 
 📫 How to reach me: Gmail - roiven435@gmail.com  
 
@@ -17,7 +17,7 @@
 
 - 💻 Languages: Go, Python, JavaScript, HTML, CSS
 - 🗃️ Database: MS SQL, PostgreSQL, Redis
-- 📦 Tools: Git, VS Code, PyCharm
+- 📦 Tools: Git, VS Code, Docker
 - 🧠 Skills: Debugging, Problem Solving, Data Structures
 
 ## 🚀 **What I Enjoy**
