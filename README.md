@@ -1,13 +1,13 @@
-## Hi, I'm Danil Pashin, Beginner Programmer 👋
+## Hi, I'm Danil Pashin, Backend Programmer 👋
 
 
 🔭 I’m currently working on Go Backend API Gateway
 
-🌱 Learning async Python, FastAPI, Prometheus metrics, Logging, Backend-architecture patterns
+🌱 Learning gin, Kafka, RabbitMQ, Prometheus metrics, Backend-architecture patterns
 
 📫 How to reach me: Gmail - roiven435@gmail.com  
 
-⚡ Fun fact: I didn't want to be a programmer in the beginning, but Go is too interesting  
+⚡ Fun fact: I didn't want to be a programmer in the beginning, but Go is too interesting
 
 <h4 align="center">
 <strong>GitHub:</strong> https://github.com/danilpashin
@@ -18,7 +18,7 @@
 - 💻 Languages: Go, Python, JavaScript, HTML, CSS
 - 🗃️ Database: MS SQL, PostgreSQL, Redis
 - 📦 Tools: Git, VS Code, Docker
-- 🧠 Skills: Debugging, Problem Solving, Data Structures
+- 🧠 Skills: Debugging, Profiling, Problem Solving, Data Structures
 
 ## 🚀 **What I Enjoy**
 
